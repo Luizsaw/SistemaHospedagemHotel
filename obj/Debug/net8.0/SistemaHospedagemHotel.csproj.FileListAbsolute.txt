@@ -1,0 +1,14 @@
+/media/luizsaw/Luiz Carlos Machado/Projetos/C#/SistemaHospedagemHotel/bin/Debug/net8.0/SistemaHospedagemHotel
+/media/luizsaw/Luiz Carlos Machado/Projetos/C#/SistemaHospedagemHotel/bin/Debug/net8.0/SistemaHospedagemHotel.deps.json
+/media/luizsaw/Luiz Carlos Machado/Projetos/C#/SistemaHospedagemHotel/bin/Debug/net8.0/SistemaHospedagemHotel.runtimeconfig.json
+/media/luizsaw/Luiz Carlos Machado/Projetos/C#/SistemaHospedagemHotel/bin/Debug/net8.0/SistemaHospedagemHotel.dll
+/media/luizsaw/Luiz Carlos Machado/Projetos/C#/SistemaHospedagemHotel/bin/Debug/net8.0/SistemaHospedagemHotel.pdb
+/media/luizsaw/Luiz Carlos Machado/Projetos/C#/SistemaHospedagemHotel/obj/Debug/net8.0/SistemaHospedagemHotel.GeneratedMSBuildEditorConfig.editorconfig
+/media/luizsaw/Luiz Carlos Machado/Projetos/C#/SistemaHospedagemHotel/obj/Debug/net8.0/SistemaHospedagemHotel.AssemblyInfoInputs.cache
+/media/luizsaw/Luiz Carlos Machado/Projetos/C#/SistemaHospedagemHotel/obj/Debug/net8.0/SistemaHospedagemHotel.AssemblyInfo.cs
+/media/luizsaw/Luiz Carlos Machado/Projetos/C#/SistemaHospedagemHotel/obj/Debug/net8.0/SistemaHospedagemHotel.csproj.CoreCompileInputs.cache
+/media/luizsaw/Luiz Carlos Machado/Projetos/C#/SistemaHospedagemHotel/obj/Debug/net8.0/SistemaHospedagemHotel.dll
+/media/luizsaw/Luiz Carlos Machado/Projetos/C#/SistemaHospedagemHotel/obj/Debug/net8.0/refint/SistemaHospedagemHotel.dll
+/media/luizsaw/Luiz Carlos Machado/Projetos/C#/SistemaHospedagemHotel/obj/Debug/net8.0/SistemaHospedagemHotel.pdb
+/media/luizsaw/Luiz Carlos Machado/Projetos/C#/SistemaHospedagemHotel/obj/Debug/net8.0/SistemaHospedagemHotel.genruntimeconfig.cache
+/media/luizsaw/Luiz Carlos Machado/Projetos/C#/SistemaHospedagemHotel/obj/Debug/net8.0/ref/SistemaHospedagemHotel.dll

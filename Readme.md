@@ -4,19 +4,19 @@ Um sistema de hotelaria simples desenvolvido em **C# com .NET**, executado via *
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
-- ✅ Cadastro de Suítes
-- ✅ Cadastro de Hóspedes
-- ✅ Reservas com controle de capacidade
-- ✅ Cálculo de valor total com desconto de 10% para 10+ dias
-- ✅ Listagem de suítes disponíveis
-- ✅ Checkout com liberação da suíte
-- ✅ Validações robustas para entradas numéricas
+-  Cadastro de Suítes
+-  Cadastro de Hóspedes
+-  Reservas com controle de capacidade
+-  Cálculo de valor total com desconto de 10% para 10+ dias
+-  Listagem de suítes disponíveis
+-  Checkout com liberação da suíte
+-  Validações robustas para entradas numéricas
 
 ---
 
-## 🧠 Regras de Negócio
+## Regras de Negócio
 
 - O sistema **não permite ultrapassar a capacidade** da suíte.
 - Um hóspede recebe **10% de desconto** se reservar por **10 dias ou mais**.
@@ -25,8 +25,9 @@ Um sistema de hotelaria simples desenvolvido em **C# com .NET**, executado via *
 
 ---
 
-## 🧱 Estrutura do Projeto
+## Estrutura do Projeto
 
+```
 SistemaHotel/
 │
 ├── Program.cs # Ponto de entrada
@@ -36,18 +37,18 @@ SistemaHotel/
 ├── Pessoa.cs # Representa o hóspede
 ├── Suite.cs # Representa a suíte
 └── Reserva.cs # Representa a reserva (Pessoa + Suite)
-
+```
 
 ---
 
-## 🛠️ Requisitos
+## Requisitos
 
 - .NET 7.0 ou superior
 - Ubuntu ou qualquer sistema com suporte ao .NET Core
 
 ---
 
-## ▶️ Como Executar
+## Como Executar
 
 ```bash
 # Clone o repositório
@@ -57,9 +58,10 @@ cd SistemaHotel
 # Restaure e execute
 dotnet restore
 dotnet run
+```
 
-📌 Exemplo de Uso
-
+## Exemplo de Uso
+```
 ======= Sistema de Hospedagem =======
 1 - Cadastrar Suíte
 2 - Fazer Reserva
@@ -67,13 +69,14 @@ dotnet run
 4 - Listar Suítes Disponíveis
 5 - Realizar Checkout
 0 - Sair
+```
 
-📚 Aprendizados Aplicados
+## Aprendizados Aplicados
 
-    Princípios SOLID (Responsabilidade Única, Encapsulamento)
+  - Princípios SOLID (Responsabilidade Única, Encapsulamento)
 
-    Boas práticas com List<T>, FirstOrDefault, Where, Any
+  -  Boas práticas com List<T>, FirstOrDefault, Where, Any
 
-    Manipulação de entradas seguras com TryParse
+  -  Manipulação de entradas seguras com TryParse
 
-    Código organizado, limpo e reutilizável
+  -  Código organizado, limpo e reutilizável
